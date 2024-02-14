@@ -1,0 +1,40 @@
+body {
+    background-color: orange;
+
+}
+
+/* h1{} border: 50pc solid rgb(17, 219, 165);
+h1 */
+h1 {
+    background-color: orange;
+    border: 20px solid transparent;
+}
+
+h1:hover {
+    background-color: aqua;
+    border: 20px solid rgb(41, 190, 66);
+    border-radius: 50px;
+}
+
+table {
+    background-color: rgb(227, 191, 125);
+    border-radius: 20% black;
+    border: 2px solid black;
+    /* text-align: center; */
+
+}
+
+table:hover {
+    background-color: aquamarine;
+    border: 10px solid rgb(45, 227, 184);
+    border-radius: 20px;
+    /* image-orientation: flip; */
+}
+
+td {
+    border: 2px solid black;
+}
+
+tr {
+    border: 2px solid black;
+}
